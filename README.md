@@ -119,8 +119,9 @@ void IRPAIR()
 ```
 
 ## OUTPUT
-![IMG_20250326_104514](https://github.com/user-attachments/assets/121bf07b-0218-485c-8350-b896ac056da7)
-![IMG_20250326_104450](https://github.com/user-attachments/assets/716bc92e-5b20-4cde-a0c3-4b8ba6144f6f)
+![with object](https://github.com/user-attachments/assets/58395e17-6f6d-458e-afdb-a0ead25e4da8)
+![without object](https://github.com/user-attachments/assets/b88ec6a9-9cb5-4580-ab24-e3f3dc6a269c)
+
 
 ## Result
 
